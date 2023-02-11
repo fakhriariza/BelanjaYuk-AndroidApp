@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BelanjaYuk</string>
+    <string name="dashboard_title">Belanja Kebutuhan Harianmu Disini!</string>
+    <string name="dashboard_titlesignin">Masuk</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_signin">Masuk</string>
+    <string name="dashboard_checkout">Checkout</string>
+    <string name="item_buy">Beli</string>
+    <string name="checkout_pay">Bayar</string>
+    <string name="checkout_confirm">Konfirmasi</string>
+    <string name="checkout_kuantitas">Kuantitas</string>
+    <string name="subtotal">Subtotal: </string>
+    <string name="detailproduck_header">Detail Produk</string>
+    <string name="detail_desc">Deskripsi</string>
+    <string name="detail_price">Harga</string>
+    <string name="detail_dimensi">Dimensi</string>
+    <string name="price_unit">Price Unit</string>
+    <string name="detail_pembelian">Detail Pembelian</string>
+    <string name="detail_back">Kembali ke Beranda</string>
+    <string name="kuantitas">Kuantitas:</string>
+    <string name="harga">Harga:</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="keluar_akun">Keluar Akun</string>
+</resources>

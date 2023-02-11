@@ -1,0 +1,126 @@
+{
+  "status": "00000",
+  "message": "Success",
+  "data": {
+    "primary": {
+      "title": "TITLE-primary-payment-method",
+      "paymentList": [
+        {
+          "learnMoreV2": {
+            "title": "learn-more-airtime-title",
+            "description": "learn-more-airtime-description"
+          },
+          "name": "airtime",
+          "learnMore": "learn-more-airtime",
+          "group": "airtime",
+          "method": "airtime",
+          "title": "airtime",
+          "prefixIcon": "airtime",
+          "imgSrc": "airtime-payment-method.png",
+          "optionIcons": [
+            {
+              "icon": "airtime-payment-method.png",
+              "link": "/payment/airtime-info"
+            }
+          ],
+          "promotion": null,
+          "promotionName": "MyTelkomsel",
+          "isSingleMenu": false,
+          "active": true,
+          "platform": [
+            "android",
+            "ios"
+          ],
+          "packageType": [
+            "scheduled-activation",
+            "family-plan",
+            "regular"
+          ]
+        }
+      ]
+    },
+    "secondary": [
+      {
+        "group": "0",
+        "title": "payment_method_recommendation_text",
+        "paymentList": []
+      },
+      {
+        "group": "1",
+        "title": "TITLE-payment-method-package-credit-card",
+        "paymentList": []
+      },
+      {
+        "group": "2",
+        "title": "TITLE-secondary-payment-method-two",
+        "paymentList": []
+      },
+      {
+        "group": "3",
+        "title": "TITLE-payment-method-package-virtual-account",
+        "paymentList": []
+      },
+      {
+        "group": "4",
+        "title": "TITLE-payment-method-emoney",
+        "paymentList": []
+      },
+      {
+        "group": "5",
+        "title": "TITLE-payment-method-paylater",
+        "paymentList": []
+      },
+      {
+        "group": "8",
+        "title": "payment_method_instant_debit_text",
+        "paymentList": []
+      },
+      {
+        "group": "9",
+        "title": "TITLE-payment-method-credit-merchant",
+        "paymentList": []
+      }
+    ],
+    "tertiary": {
+      "group": "1",
+      "title": "TITLE-payment-method-package-my-payment",
+      "paymentList": []
+    },
+    "maintenanceInfoList": [],
+    "prices": [
+      {
+        "original_price": "0",
+        "charge_amount": "0",
+        "payment_method": "RSEMONEY",
+        "price_description": null,
+        "promo_code": null,
+        "offer_type": null
+      },
+      {
+        "original_price": "0",
+        "charge_amount": "0",
+        "payment_method": "RSSTOCK",
+        "price_description": null,
+        "promo_code": null,
+        "offer_type": null
+      },
+      {
+        "original_price": "0",
+        "charge_amount": "10000",
+        "payment_method": "AIRTIME",
+        "price_description": null,
+        "promo_code": null,
+        "offer_type": null
+      },
+      {
+        "original_price": "0",
+        "charge_amount": "0",
+        "payment_method": "URP",
+        "price_description": null,
+        "promo_code": null,
+        "offer_type": null
+      }
+    ]
+  },
+  "transaction_id": "A3P1220901101859750938120"
+}

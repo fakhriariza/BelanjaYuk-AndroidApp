@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="belanja_yuk_red">#D43D3D</color>
+    <color name="belanja_yuk_grey">#F3F6F8</color>
+    <color name="belanja_yuk_dark_grey">#EDEFF1</color>
+    <color name="belanja_yuk_title_secondary">#9DADB8</color>
+    <color name="belanja_yuk_disable">#7E7E7E</color>
+</resources>
